@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
  	<Stable>
- 		<slte>
- 			<Filename>ResurrectionRemix-M-v5.7.0-20160618-slte.zip</Filename>
+ 		<oneplus3>
+ 			<Filename>ResurrectionRemix-M-v5.7.1-20160711-oneplus3.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Rom"
- 				description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/slte/ResurrectionRemix-M-v5.7.0-20160618-slte.zip</RomUrl>
+ 				description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.1-20160711-oneplus3.zip</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
@@ -15,14 +15,10 @@
  				id="gapps"
  				title="GApps"
  				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
- 			<YouTubeUrl
- 				id="youtube"
- 				title="YouTube"
- 				description="sunsettrack47 on YouTube">https://goo.gl/XfFy6J</YouTubeUrl>
  			<XDAUrl
  				id="xda"
  				title="XDA"
- 				description="Visit official XDA thread">http://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-v5-6-0-t3277521</XDAUrl>
- 		</slte>
+ 				description="Visit official XDA thread">http://forum.xda-developers.com/oneplus-3/development/rom-t3403365</XDAUrl>
+ 		</oneplus3>
 	</Stable>
 </SlimOTA>
